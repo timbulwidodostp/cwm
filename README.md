@@ -1,6 +1,8 @@
 # cwm
 Fit for the Cluster Weighted Model (CWM) Use cwm (flexCWM) With (In) R Software
 
+https://www.youtube.com/watch?v=IZp9KpUPJv8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
